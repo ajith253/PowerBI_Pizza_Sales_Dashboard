@@ -25,4 +25,17 @@
 <img width="1331" height="733" alt="Pizza_sales_1" src="https://github.com/user-attachments/assets/d57cdccc-afa5-4dc6-bce8-4f8e8746d78b" />
 <img width="1337" height="742" alt="Pizza_sales_2" src="https://github.com/user-attachments/assets/1fcd4b62-707d-4e06-8edc-81a658ed9314" />
 
+## Project Insights
+- Most Revenue-Generating Pizza: The Thai Chicken Pizza contributed the highest revenue among all pizzas.
+- Most Popular Pizza by Orders: The Classic Deluxe Pizza had the maximum number of orders.
+- Category-Wise Sales: Classic and Supreme categories contributed the majority of sales.
+- Pizza Size Trends: Large-sized pizzas were the most ordered, while Extra-Large pizzas generated high revenue per order.
+- Peak Sales Days: Friday and Saturday recorded the highest number of orders.
+- Peak Hours: Most sales occurred during lunch (12–2 PM) and evening (6–9 PM).
+- Revenue Trends: A consistent sales peak was observed on weekends compared to weekdays.
+- Customer Preferences: Cheese-based and meat-loaded pizzas were top preferences, indicating strong demand for premium offerings.
+- Business Insight: Promotions on weekdays or non-peak hours could boost overall revenue.
+
+## Final Conclusion
+The Pizza Sales Analysis dashboard successfully transformed raw sales data into meaningful business insights by tracking key KPIs, identifying top-performing pizzas, and analyzing customer demand patterns across time periods. The analysis revealed that weekends and evenings drive the highest sales, large-sized pizzas are the most popular, and specific categories consistently contribute a significant share of revenue. These insights can help businesses refine their menu strategies, optimize promotional campaigns, and allocate resources more effectively. Overall, the project demonstrates how Power BI can be leveraged to convert data into actionable intelligence that supports smarter, data-driven decision-making.
 
