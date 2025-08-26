@@ -3,7 +3,7 @@
   The objective of this project is to develop an interactive Power BI dashboard that provides a comprehensive analysis of pizza sales performance. By tracking key KPIs such as total revenue, orders, and average order value, the dashboard helps identify top-performing pizzas, categories, and sizes while uncovering customer demand patterns across days, weeks, and months. It also highlights weekday vs weekend performance and peak sales hours, enabling businesses to make data-driven decisions to optimize menu offerings, marketing strategies, and operational efficiency.
 
 ## Dataset Used
-- <a href="[https://github.com/ajith253/PowerBI_Dashboard_1/blob/main/Coffee%20Shop%20Sales.csv](https://github.com/ajith253/PowerBI_Pizza_Sales_Dashboard/blob/main/pizza_sales.csv)">Coffee Shop Sales Data</a>
+- <a href="https://github.com/ajith253/PowerBI_Pizza_Sales_Dashboard/blob/main/pizza_sales.csv">Coffee Shop Sales Data</a>
 
 ## KPI’s Requirements
 - KPI Metrics: Total Sales, Total Orders, Average Order Value
@@ -12,3 +12,6 @@
 - Size Performance: Sales by pizza size (Small, Medium, Large, XL)
 - Customer Trends: Peak sales hours, Weekend vs Weekday performance
 - Advanced DAX Measures for KPI calculations and performance tracking
+
+- Dashboard Interaction: [View Dashboard](https://github.com/ajith253/PowerBI_Pizza_Sales_Dashboard/blob/main/Pizza_sales_1.png)
+- - Dashboard Interaction: [View Dashboard](https://github.com/ajith253/PowerBI_Pizza_Sales_Dashboard/blob/main/Pizza_sales_2.png)
