@@ -13,5 +13,7 @@
 - Customer Trends: Peak sales hours, Weekend vs Weekday performance
 - Advanced DAX Measures for KPI calculations and performance tracking
 
+  
+
 - Dashboard Interaction: [View Dashboard](https://github.com/ajith253/PowerBI_Pizza_Sales_Dashboard/blob/main/Pizza_sales_1.png)
-- - Dashboard Interaction: [View Dashboard](https://github.com/ajith253/PowerBI_Pizza_Sales_Dashboard/blob/main/Pizza_sales_2.png)
+- Dashboard Interaction: [View Dashboard](https://github.com/ajith253/PowerBI_Pizza_Sales_Dashboard/blob/main/Pizza_sales_2.png)
