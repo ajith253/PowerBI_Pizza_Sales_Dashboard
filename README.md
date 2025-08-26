@@ -4,3 +4,11 @@
 
 ## Dataset Used
 - <a href="[https://github.com/ajith253/PowerBI_Dashboard_1/blob/main/Coffee%20Shop%20Sales.csv](https://github.com/ajith253/PowerBI_Pizza_Sales_Dashboard/blob/main/pizza_sales.csv)">Coffee Shop Sales Data</a>
+
+## KPI’s Requirements
+- KPI Metrics: Total Sales, Total Orders, Average Order Value
+- Sales Trends: Daily, Weekly, and Monthly analysis
+- Product Insights: Best-selling pizzas, Category-wise sales contribution
+- Size Performance: Sales by pizza size (Small, Medium, Large, XL)
+- Customer Trends: Peak sales hours, Weekend vs Weekday performance
+- Advanced DAX Measures for KPI calculations and performance tracking
