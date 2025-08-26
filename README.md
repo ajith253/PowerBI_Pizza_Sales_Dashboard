@@ -22,7 +22,7 @@
   The project began with importing the raw pizza sales dataset into Power BI, followed by data cleaning and preparation to ensure accuracy and consistency. Next, data modeling was performed by creating relationships between tables and applying DAX measures for key performance indicators such as total sales, total orders, and average order value. Once the data foundation was ready, visualizations were designed to highlight sales trends, top-selling pizzas, category-wise contributions, and size preferences. Interactive filters and slicers were added to enhance usability, allowing users to explore sales patterns by date, time, and product type. Finally, the dashboard was refined with proper formatting, storytelling elements, and insights to ensure it delivers meaningful, actionable business decisions.
 
 ## Dashboard
-src="<img width="1331" height="733" alt="Pizza_sales_1" src="https://github.com/user-attachments/assets/d57cdccc-afa5-4dc6-bce8-4f8e8746d78b" />
-src="<img width="1337" height="742" alt="Pizza_sales_2" src="https://github.com/user-attachments/assets/1fcd4b62-707d-4e06-8edc-81a658ed9314" />
+<img width="1331" height="733" alt="Pizza_sales_1" src="https://github.com/user-attachments/assets/d57cdccc-afa5-4dc6-bce8-4f8e8746d78b" />
+<img width="1337" height="742" alt="Pizza_sales_2" src="https://github.com/user-attachments/assets/1fcd4b62-707d-4e06-8edc-81a658ed9314" />
 
 
