@@ -1,2 +1,3 @@
-# PowerBI_Pizza_Sales_Dashboard
-This project analyzes Pizza Sales Data using Power BI to track sales performance, customer preferences, and revenue trends. The dashboard provides actionable insights that can help businesses make data-driven decisions to improve sales strategy, optimize menu offerings, and identify top-performing products.
+# Pizza_Shop_Sales_Data_Analysis (Interactive Dashboard Creation by Using PowerBI)
+## Project Objective
+  The objective of this project is to develop an interactive Power BI dashboard that provides a comprehensive analysis of pizza sales performance. By tracking key KPIs such as total revenue, orders, and average order value, the dashboard helps identify top-performing pizzas, categories, and sizes while uncovering customer demand patterns across days, weeks, and months. It also highlights weekday vs weekend performance and peak sales hours, enabling businesses to make data-driven decisions to optimize menu offerings, marketing strategies, and operational efficiency.
